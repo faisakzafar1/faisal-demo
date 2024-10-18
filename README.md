@@ -3,4 +3,4 @@ git repository
 <br/>
 this is git repository
 <br/> 
-author name = faisal zafar
+author name = faisal (zafar)
